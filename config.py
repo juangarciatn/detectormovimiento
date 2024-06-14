@@ -1,8 +1,15 @@
 wifi_config = {
-    'ssid':'SSID',
-    'password':'PASS'
+    'ssid':'***',
+    'password':'***'
 }
 
 utelegram_config = {
-    'token': 'TOKEN'
+    'token': '***'
 }
+
+mqtt_config = {
+    'mqtt_server': '***',
+    'client_id': '***',
+    'topic_pub': '***'
+}
+
