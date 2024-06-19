@@ -103,7 +103,7 @@ mqtt_connect()
 
 # Configurar y lanzar el bot de Telegram
 bot = utelegram.ubot(utelegram_config['token'])
-bot.register('/start', reply_start)
+bot.register('/detectar', reply_start)
 bot.register('/stop', reply_stop)
 bot.register('/temp', reply_temp)
 bot.register('/luz', reply_lum)

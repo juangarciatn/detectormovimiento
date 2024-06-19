@@ -13,7 +13,7 @@ Este proyecto consiste en la creación de un detector de movimiento camuflado ut
 
 1. Encienda el dispositivo y asegúrese de que esté conectado a una red Wi-Fi habiendo configurado correctamente el fichero config.py
 2. El dispositivo comenzará a monitorear el entorno.
-3. Si se desea empezar a monitorear movimiento manda /start al bot de Telegram y /stop si se desea parar de recibir notificaciones
+3. Si se desea empezar a monitorear movimiento manda /detectar al bot de Telegram y /stop si se desea parar de recibir notificaciones
 3. Cuando se detecte movimiento, el dispositivo enviará una notificación a través de Wi-Fi al bot de Telegram.
 4. También se pueden consultar los niveles de luz y temperatura mediante los comandos /temp y /luz al bot de Telegram
 
