@@ -29,5 +29,6 @@ Este proyecto consiste en la creación de un detector de movimiento camuflado ut
 
 1. Clonar este repositorio en la Raspberry Pi Pico W.
 2. Instalar las dependencias necesarias.
-3. Ejecutar el programa principal.
+3. Modificar el fichero config con tus datos específicos
+4. Ejecutar el programa principal.
 
